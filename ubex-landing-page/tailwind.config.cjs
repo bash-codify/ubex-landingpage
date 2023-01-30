@@ -8,7 +8,7 @@ module.exports = {
           colors: {
           buttonColor: 'rgba(242, 97, 191, 1)',
           textBackgroundColor: 'linear-gradient(84.24deg, #F261BF -0.5%, #9D96FD 133.28%)',
-          textColor: '#FCFCFC'
+          textColor: '#FCFCFC',
 
 
           },
